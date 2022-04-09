@@ -1,0 +1,11 @@
+graph G {
+0 -- 1 [label="140.296", fontcolor=red, fontsize=8]
+0 -- 2 [label="185.329", fontcolor=red, fontsize=8]
+1 -- 6 [label="238.891", fontcolor=red, fontsize=8]
+1 -- 5 [label="446.931", fontcolor=red, fontsize=8]
+2 -- 3 [label="387.979", fontcolor=red, fontsize=8]
+2 -- 4 [label="685.315", fontcolor=red, fontsize=8]
+6 -- 8 [label="870.857", fontcolor=red, fontsize=8]
+6 -- 9 [label="952.584", fontcolor=red, fontsize=8]
+8 -- 7 [label="1383.52", fontcolor=red, fontsize=8]
+}

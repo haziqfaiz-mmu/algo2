@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/question3.dir/Main.cpp.o CMakeFiles/question3.dir/Planet.cpp.o CMakeFiles/question3.dir/Graph.cpp.o  -o question3  -lgvc -lcgraph -lcdt 

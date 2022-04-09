@@ -1,0 +1,3 @@
+/home/haziq/Documents/algo2/Question2_Final/build/CMakeFiles/rebuild_cache.dir
+/home/haziq/Documents/algo2/Question2_Final/build/CMakeFiles/edit_cache.dir
+/home/haziq/Documents/algo2/Question2_Final/build/CMakeFiles/question2.dir

@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/haziq/Documents/algo2/Question2_Cmake/Graph.cpp
+Graph.h
+/home/haziq/Documents/algo2/Question2_Cmake/Graph.h
+Planet.h
+/home/haziq/Documents/algo2/Question2_Cmake/Planet.h
+vector
+-
+cmath
+-
+string
+-
+iostream
+-
+algorithm
+-
+graphviz/gvc.h
+-
+fstream
+-
+
+/home/haziq/Documents/algo2/Question2_Cmake/Graph.h
+string
+-
+vector
+-
+Planet.h
+/home/haziq/Documents/algo2/Question2_Cmake/Planet.h
+graphviz/gvc.h
+-
+
+/home/haziq/Documents/algo2/Question2_Cmake/Planet.h
+string
+-
+vector
+-
+

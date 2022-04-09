@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/haziq/Documents/algo2/Question2_Final/build",
+  "command": "/usr/bin/g++   -I/usr/include/graphviz  -g   -o CMakeFiles/question2.dir/Main.cpp.o -c /home/haziq/Documents/algo2/Question2_Final/Main.cpp",
+  "file": "/home/haziq/Documents/algo2/Question2_Final/Main.cpp"
+},
+{
+  "directory": "/home/haziq/Documents/algo2/Question2_Final/build",
+  "command": "/usr/bin/g++   -I/usr/include/graphviz  -g   -o CMakeFiles/question2.dir/Graph.cpp.o -c /home/haziq/Documents/algo2/Question2_Final/Graph.cpp",
+  "file": "/home/haziq/Documents/algo2/Question2_Final/Graph.cpp"
+},
+{
+  "directory": "/home/haziq/Documents/algo2/Question2_Final/build",
+  "command": "/usr/bin/g++   -I/usr/include/graphviz  -g   -o CMakeFiles/question2.dir/Planet.cpp.o -c /home/haziq/Documents/algo2/Question2_Final/Planet.cpp",
+  "file": "/home/haziq/Documents/algo2/Question2_Final/Planet.cpp"
+}
+]
